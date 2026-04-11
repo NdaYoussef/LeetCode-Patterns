@@ -6,7 +6,6 @@
         /// 1234
         /// 1 2 3 4 
         /// </summary>
-     
         static void Main(string[] args)
         {
             int[] nums = { 124, 4578, 1125786, 9, 11, 1 };
