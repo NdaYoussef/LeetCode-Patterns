@@ -28,7 +28,6 @@
                     counter++;
             }
             Console.WriteLine(counter);
-
         }
     }
 }
